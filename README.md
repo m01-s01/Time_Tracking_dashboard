@@ -1,4 +1,4 @@
-# Time tracking dashboard solution
+# Time tracking dashboard
 
 
 ## Overview
