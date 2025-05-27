@@ -1,24 +1,8 @@
-# Frontend Mentor - Time tracking dashboard solution
+# Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Expected behaviour](#expected-behaviour)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [My Contribution](#my-contribution)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
-### The challenge
 
 Users should be able to:
 
@@ -50,13 +34,6 @@ This project is responsive at screens >
 
 ![](images/time-tracking-sanp-2.png)
 
-### Links
-
-- Solution URL: [Source Code](https://github.com/SoniBasant/Frontend-Mentor-Projects/tree/main/B7-Time-Tracking-Dashboard)
-
-- Live Site URL: [Live Link](https://sonibasant.github.io/Frontend-Mentor-Projects/B7-Time-Tracking-Dashboard/index.html)
-
-## My process
 
 ### Built with
 
@@ -111,10 +88,5 @@ I made is responsive from **Mobile screen 320px** to **Desktop XL screen at 2560
 
 ## Author
 
-Basant Soni 👨‍💻
+Meenu Soni 👨‍💻
 
-- GitHub - [@SoniBasant](https://github.com/SoniBasant)
-
-- Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
-- CodePen - [@SoniBasant](https://codepen.io/sonibasant)
-- Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
